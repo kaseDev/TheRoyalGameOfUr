@@ -3,9 +3,10 @@
 <head>
 <title>The Royal Game of Ur</title>
 </head>
+By Brendan and Rick
 <body>
 	<form method="POST" action="/input">
-
+		Start Game <input type="button" name="Initiate_Game" value="30"><br>
 
 
 
