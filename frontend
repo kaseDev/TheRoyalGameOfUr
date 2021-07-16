@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>Covid Model Web App</title>
+<title>The Royal Game of Ur</title>
 </head>
 <body>
 	<form method="POST" action="/input">
