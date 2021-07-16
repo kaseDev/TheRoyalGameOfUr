@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title>Covid Model Web App</title>
+</head>
+<body>
+	<form method="POST" action="/input">
+
+
+
+
+			<input type="submit" value="Submit">
+	</form>
+</body>
+</html>
