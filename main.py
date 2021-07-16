@@ -7,7 +7,9 @@ def main():
 	return render_template('frontend.html')
 @app.route('/input', methods=['GET', 'POST'])
 
-
+#does the starting of the game?
+if request.form.get('Initiate_Game') == True:
+	print('beepboop')
 
 
 
