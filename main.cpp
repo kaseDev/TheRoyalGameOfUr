@@ -20,6 +20,19 @@ public:
     std::string getName() {
         return name;
     }
+
+    bool advance(int piece, int amount) {
+        if (piece < 0 || piece >= 7 || amount < 0 || amount >= 3)
+            return false;
+        if (pieces[piece] + amount >= 16)
+            return false;
+        pieces[piece] += amount;
+        return true;
+    }
+};
+
+class Game {
+    
 };
 
 int main() {
