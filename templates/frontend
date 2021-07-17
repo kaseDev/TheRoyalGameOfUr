@@ -1,16 +1,16 @@
 <!doctype html>
 <html>
 <head>
-<title>The Royal Game of Ur</title>
+<title>Royal Game of Ur</title>
 </head>
-By Brendan and Rick
++-+ The Royal Game of Ur +-+<br>
++-+ By Banana-Kitty Inc. +-+
 <body>
 	<form method="POST" action="/input">
-		Start Game <input type="button" name="Initiate_Game" value="30"><br>
+		<input type="button" name="Initiate_Game" value="Start Game"><br>
 
 
 
-			<input type="submit" value="Submit">
 	</form>
 </body>
 </html>
